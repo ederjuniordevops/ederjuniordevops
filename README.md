@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Edinho Junior 👋</h1>
+<h1 align="center">Olá, eu sou o Eder Junior 👋</h1>
 <p align="center">
   <b>Infraestrutura • DevOps • Automação • IA aplicada à recolocação</b>
 </p>
