@@ -49,9 +49,9 @@ Meu objetivo é evoluir para DevOps e automação, criando soluções úteis e m
 
 ### Contato
 
-- LinkedIn: coloque seu link aqui
-- GitHub: coloque seu link aqui
-- E-mail: coloque seu e-mail aqui
+- LinkedIn: (https://www.linkedin.com/in/ederjrr/)
+- GitHub: (https://github.com/ederjuniordevops)
+- E-mail: ederjuniorti@hotmail.com
 
     </td>
   </tr>
