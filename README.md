@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Eder Junior 👋</h1>
 <p align="center">
-  <b>Infraestrutura • DevOps • Automação • IA aplicada</b>
+  <b>Infraestrutura • DevOps • VibeCoding • IA Pillot</b>
 </p>
 
 <p align="center">
