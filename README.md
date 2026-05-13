@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou o Edinho Junior 👋</h1>
+<p align="center">
+  <b>Infraestrutura • DevOps • Automação • IA aplicada à recolocação</b>
+</p>
 
-<!--
-**ederjuniordevops/ederjuniordevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Infraestrutura-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Em%20Evolu%C3%A7%C3%A3o-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-Agentes%20e%20Automac%C3%A3o-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+- Experiência com ambientes Windows e infraestrutura corporativa.
+- Atuação com Active Directory, Office 365 e suporte técnico.
+- Foco atual em automação, cloud, Docker, CI/CD e observabilidade.
+- Construindo projetos práticos para portfólio e recolocação.
+
+### O que estudo
+
+- Windows Server
+- Active Directory
+- Office 365
+- Git e GitHub
+- Docker
+- Python
+- FastAPI
+- HTML, CSS e JavaScript
+- DevOps e automação
+
+    </td>
+    <td valign="top" width="50%">
+
+### Projetos em destaque
+
+**MatchBoard / Agente-Caçador**
+Sistema para buscar vagas, calcular aderência ao currículo e organizar candidaturas.
+
+**MVP web de recrutamento**
+Interface com upload de currículo, filtros de vagas e score explicável.
+
+### Objetivo atual
+
+Meu objetivo é evoluir para DevOps e automação, criando soluções úteis e mostrando experiência prática em projetos reais.
+
+### Contato
+
+- LinkedIn: coloque seu link aqui
+- GitHub: coloque seu link aqui
+- E-mail: coloque seu e-mail aqui
+
+    </td>
+  </tr>
+</table>
