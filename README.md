@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Eder Junior 👋</h1>
 <p align="center">
-  <b>Infraestrutura • DevOps • Automação • IA aplicada à recolocação</b>
+  <b>Infraestrutura • DevOps • Automação • IA aplicada</b>
 </p>
 
 <p align="center">
