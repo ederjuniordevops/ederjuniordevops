@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infraestrutura-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Em%20Evolu%C3%A7%C3%A3o-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infraestrutura-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/IA-Agentes%20e%20Automac%C3%A3o-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
